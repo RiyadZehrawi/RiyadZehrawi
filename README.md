@@ -1,4 +1,4 @@
-Hello, I'm Riyad Zehrawi, a dedicated and pragmatic Sales Engineer. My unique academic background in Psychology coupled with hands-on experience in technical sales engineering allows me to bring valuable insights to the table.
+Hello, I'm Riyad Zehrawi.
 
 🎓 My Foundation
 I hold a Bachelor's degree in Psychology, offering me the ability to discern the subtle nuances of client needs and motivations. This journey was further complemented by an immersive bootcamp and internship experience in sales engineering, exposing me to industry-leading platforms like Salesforce and HubSpot.
